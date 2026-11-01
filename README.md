@@ -1,6 +1,11 @@
 <div align="center">
     <h1>McWire</h1>
-    <p>v0.0.2 | b2</p>
+    <p>v0.0.2 | b4</p>
+    <a href="https://hub.xerj.org/contributors/CodCatDev"><img src="https://hub.xerj.org/contributors/CodCatDev/badge.svg" alt="XERJ Corpus Hub contributor"></a>
+    <a href="https://github.com/CodCatDev/McWire/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/CodCatDev/McWire?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+    <a href="https://github.com/CodCatDev/McWire/releases/latest">
+    <img alt="Releases" src="https://img.shields.io/github/release/CodCatDev/McWire.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
 </div>
 
 ## About
