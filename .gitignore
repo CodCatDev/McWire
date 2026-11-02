@@ -60,3 +60,6 @@ $RECYCLE.BIN/
 
 ### AmethystCore ###
 build/*
+nimble.develop
+nimble.paths
+nimbledeps

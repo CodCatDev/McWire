@@ -55,6 +55,15 @@ cd McWire
 
 move mcwire to your project and use!
 
+## Contributing
+Thanks all contributors for your help!
+
+<a href="https://github.com/codcatdev/mcwire/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codcatdev/mcwire&max=50&columns=4&anon=1" />
+</a>
+
+If you want to contribute, read our [Contributing Guide](CONTRIBUTING.md)
+
 ## RoadMap to v1.0.0 (Russian)
 
 P.s: В хедере где версия, bX это билд, например щас билд b4, если вы делаете pullrequest добавляете +1 к номеру билда
